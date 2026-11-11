@@ -1,0 +1,41 @@
+ID,Type_Transaction,Commentaire
+1054,Remboursement,Montant suspect
+2098,Transfert,Vérification manuelle requise
+3127,Virement,Transaction inhabituelle
+4012,Paiement,Client VIP
+5234,Virement,Vérification manuelle requise
+6189,Transfert,Transaction inhabituelle
+7341,Remboursement,Montant suspect
+8120,Paiement,Client VIP
+9253,Virement,Vérification manuelle requise
+1024,Transfert,Transaction inhabituelle
+1189,Remboursement,Montant suspect
+1277,Virement,Client VIP
+1365,Paiement,Transaction inhabituelle
+1499,Transfert,Vérification manuelle requise
+1587,Remboursement,Montant suspect
+1633,Virement,Client VIP
+1771,Paiement,Vérification manuelle requise
+1822,Transfert,Transaction inhabituelle
+1998,Virement,Montant suspect
+2045,Remboursement,Transaction inhabituelle
+2156,Paiement,Client VIP
+2233,Transfert,Montant suspect
+2379,Virement,Vérification manuelle requise
+2488,Paiement,Transaction inhabituelle
+2599,Remboursement,Client VIP
+2681,Transfert,Montant suspect
+2795,Virement,Transaction inhabituelle
+2833,Paiement,Client VIP
+2944,Transfert,Montant suspect
+3055,Virement,Vérification manuelle requise
+3166,Remboursement,Transaction inhabituelle
+3277,Virement,Montant suspect
+3388,Paiement,Client VIP
+3499,Transfert,Vérification manuelle requise
+3555,Virement,Transaction inhabituelle
+3666,Paiement,Client VIP
+3777,Remboursement,Montant suspect
+3888,Virement,Transaction inhabituelle
+3999,Transfert,Vérification manuelle requise
+4099,Paiement,Client VIP

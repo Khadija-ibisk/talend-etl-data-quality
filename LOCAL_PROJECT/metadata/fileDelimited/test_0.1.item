@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmlns:orgomg.cwm.resource.record="http:///orgomg/cwm/resource/record.ecore">
+  <TalendMetadata:DelimitedFileConnection xmi:id="_Q0IZoEiyEfGVMLRDsMZk_A" name="test" dataPackage="_Q0IZoUiyEfGVMLRDsMZk_A" Server="Localhost 127.0.0.1" FilePath="C:/Users/DELL/Desktop/2025-2026/Analyse de Donnée/Analyse De Donnée Evolution/Input/main/input_file_1.csv" Encoding="UTF-8" FieldSeparatorValue="&quot;,&quot;" RowSeparatorType="Custom String" RowSeparatorValue="&quot;\n&quot;" UseHeader="true" HeaderValue="1" FirstLineCaption="true" FieldSeparatorType="Comma"/>
+  <orgomg.cwm.resource.record:RecordFile xmi:id="_Q0IZoUiyEfGVMLRDsMZk_A" name="default" dataManager="_Q0IZoEiyEfGVMLRDsMZk_A">
+    <ownedElement xsi:type="TalendMetadata:MetadataTable" xmi:id="_Q0IZokiyEfGVMLRDsMZk_A" id="_yD3KYEixEfGVMLRDsMZk_A" label="metadata1">
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_Q0IZo0iyEfGVMLRDsMZk_A" label="ID" length="4" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_Q0IZpEiyEfGVMLRDsMZk_A" label="Nom" length="6" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_Q0IZpUiyEfGVMLRDsMZk_A" label="Prenom" length="6" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_Q0IZpkiyEfGVMLRDsMZk_A" label="Montant" length="-1" talendType="id_Double" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_Q0IZp0iyEfGVMLRDsMZk_A" label="Date" length="-1" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_uzK3UE-kEfGYGJ9wmIEJzg" name="Categorie" label="Categorie" talendType="id_String"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_t35scE-lEfGYGJ9wmIEJzg" name="Devise" label="Devise" talendType="id_String"/>
+    </ownedElement>
+  </orgomg.cwm.resource.record:RecordFile>
+</xmi:XMI>

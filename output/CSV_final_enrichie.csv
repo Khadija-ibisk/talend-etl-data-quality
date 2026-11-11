@@ -1,0 +1,11 @@
+Statut_Validation,ID,Nom,Prenom,Montant,Date,Blackliste,Montant_Euro,Transaction_Sensible,Devise,Categorie,isKO
+OK,2904,ROBERT,LUC,390.0,,Oui,390.0,OUI,,Inconnue,0
+OK,3492,ROBERT,LUC,112.0,,Oui,112.0,OUI,,Inconnue,0
+OK,4427,ROBERT,JEAN,319.0,,Oui,319.0,OUI,,Inconnue,0
+OK,7540,DUPONT,PAUL,260.0,,Oui,260.0,OUI,,Inconnue,0
+OK,8103,ROBERT,CLAIRE,321.0,,Oui,321.0,OUI,,Inconnue,0
+OK,8388,BERNARD,JEAN,499.0,,Oui,499.0,OUI,,Inconnue,0
+OK,8750,DUPONT,LUC,168.0,,Oui,168.0,OUI,,Inconnue,0
+OK,9130,BERNARD,MARIE,105.0,,Oui,105.0,OUI,,Inconnue,0
+OK,9325,MARTIN,LUC,457.0,,Oui,457.0,OUI,,Inconnue,0
+OK,9564,DUPONT,MARIE,308.0,,Oui,308.0,OUI,,Inconnue,0

@@ -1,0 +1,6 @@
+Min,Max,Categorie
+0,99,Petit montant
+100,299,Moyen montant
+300,599,Grand montant
+600,999,Très grand montant
+1000,9999,Exceptionnel

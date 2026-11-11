@@ -1,0 +1,11 @@
+ID,Nom,Prenom,Montant,Date,Source,Montant_TVA,Categorie,Nom_Complet,Devise
+2904,ROBERT,LUC,390,,input_file_5.csv,78,,ROBERT LUC,
+3492,ROBERT,LUC,112,,input_file_5.csv,22.4,,ROBERT LUC,
+4427,ROBERT,JEAN,319,,input_file_5.csv,63.8,,ROBERT JEAN,
+7540,DUPONT,PAUL,260,,input_file_5.csv,52,,DUPONT PAUL,
+8103,ROBERT,CLAIRE,321,,input_file_5.csv,64.2,,ROBERT CLAIRE,
+8388,BERNARD,JEAN,499,,input_file_5.csv,99.8,,BERNARD JEAN,
+8750,DUPONT,LUC,168,,input_file_5.csv,33.6,,DUPONT LUC,
+9130,BERNARD,MARIE,105,,input_file_5.csv,21,,BERNARD MARIE,
+9325,MARTIN,LUC,457,,input_file_5.csv,91.4,,MARTIN LUC,
+9564,DUPONT,MARIE,308,,input_file_5.csv,61.6,,DUPONT MARIE,
